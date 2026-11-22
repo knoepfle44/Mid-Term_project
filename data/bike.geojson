@@ -1,0 +1,1240 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "RADGRAETZELOGD.178148",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.32949238,
+                    48.23147412
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 178148,
+                "UNIQUEID": "GR34",
+                "BEZEICHNUNG": "Gersthof",
+                "ADRESSE": "Gentzgasse 160",
+                "PLZ": 1180,
+                "WEBLINK1": "https://www.graetzlrad.wien/bicycle/gersthof/",
+                "TYP": "Bakfiets Classic Long",
+                "RECHTSWERT_WGS84": 16.32949237,
+                "HOCHWERT_WGS84": 48.23147405,
+                "ICON": "Lastenrad",
+                "STATUS": "Aktiv"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "RADGRAETZELOGD.178149",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.35125961,
+                    48.22301047
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 178149,
+                "UNIQUEID": "GR02",
+                "BEZEICHNUNG": "WUK",
+                "ADRESSE": "Währinger Straße 59",
+                "PLZ": 1090,
+                "WEBLINK1": "https://www.graetzlrad.wien/bicycle/wuk/",
+                "TYP": "Bakfiets Classic Long",
+                "RECHTSWERT_WGS84": 16.35125961,
+                "HOCHWERT_WGS84": 48.2230104,
+                "ICON": "Lastenrad",
+                "STATUS": "Aktiv"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "RADGRAETZELOGD.178150",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.37836371,
+                    48.21645597
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 178150,
+                "UNIQUEID": "GR03",
+                "BEZEICHNUNG": "Mobilitaetsagentur ",
+                "ADRESSE": "Große Sperlgasse 4",
+                "PLZ": 1020,
+                "WEBLINK1": "https://www.graetzlrad.wien/bicycle/mobilitaetsagentur/",
+                "TYP": "Urban Arrow Family",
+                "RECHTSWERT_WGS84": 16.37836371,
+                "HOCHWERT_WGS84": 48.2164559,
+                "ICON": "Lastenrad",
+                "STATUS": "Aktiv"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "RADGRAETZELOGD.178151",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.34110751,
+                    48.20172027
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 178151,
+                "UNIQUEID": "GR04",
+                "BEZEICHNUNG": "Reanimated Bikes ",
+                "ADRESSE": "Westbahnstraße 35",
+                "PLZ": 1070,
+                "WEBLINK1": "https://www.graetzlrad.wien/bicycle/reanimated-bikes/",
+                "TYP": "Bakfiets Classic Long",
+                "RECHTSWERT_WGS84": 16.34110751,
+                "HOCHWERT_WGS84": 48.2017202,
+                "ICON": "Lastenrad",
+                "STATUS": "Aktiv"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "RADGRAETZELOGD.178152",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.39429957,
+                    48.20199905
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 178152,
+                "UNIQUEID": "GR08",
+                "BEZEICHNUNG": "Huberista",
+                "ADRESSE": "Erdbergstraße 22",
+                "PLZ": 1030,
+                "WEBLINK1": "https://www.graetzlrad.wien/bicycle/huberista/",
+                "TYP": "Butchers and bicycles MK1 Vario",
+                "RECHTSWERT_WGS84": 16.39429957,
+                "HOCHWERT_WGS84": 48.20199898,
+                "ICON": "Lastenrad",
+                "STATUS": "Aktiv"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "RADGRAETZELOGD.178153",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.33016927,
+                    48.18996658
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 178153,
+                "UNIQUEID": "GR39",
+                "BEZEICHNUNG": "Primetours",
+                "ADRESSE": "Reindorfgasse 25",
+                "PLZ": 1150,
+                "WEBLINK1": "https://www.graetzlrad.wien/bicycle/primetours/",
+                "TYP": "Bakfiets Classic Long",
+                "RECHTSWERT_WGS84": 16.33016927,
+                "HOCHWERT_WGS84": 48.18996652,
+                "ICON": "Lastenrad",
+                "STATUS": "Aktiv"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "RADGRAETZELOGD.178154",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.35372936,
+                    48.17288054
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 178154,
+                "UNIQUEID": "GR40",
+                "BEZEICHNUNG": "velo.wien",
+                "ADRESSE": "Troststrasse 114",
+                "PLZ": 1100,
+                "WEBLINK1": "https://www.graetzlrad.wien/bicycle/velo/",
+                "TYP": "Hagen Flagship",
+                "RECHTSWERT_WGS84": 16.35372936,
+                "HOCHWERT_WGS84": 48.17288047,
+                "ICON": "Lastenrad",
+                "STATUS": "Aktiv"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "RADGRAETZELOGD.178155",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.30823081,
+                    48.16724557
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 178155,
+                "UNIQUEID": "GR13",
+                "BEZEICHNUNG": "Fahrradwerkstatt Flickschuh",
+                "ADRESSE": "Hetzendorfer Straße 81",
+                "PLZ": 1120,
+                "WEBLINK1": "https://www.graetzlrad.wien/bicycle/flickschuh/",
+                "TYP": "Radkutsche Rapid",
+                "RECHTSWERT_WGS84": 16.30823081,
+                "HOCHWERT_WGS84": 48.1672455,
+                "ICON": "Lastenrad",
+                "STATUS": "Aktiv"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "RADGRAETZELOGD.178156",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.31632161,
+                    48.19280037
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 178156,
+                "UNIQUEID": "GR14",
+                "BEZEICHNUNG": "Velobis",
+                "ADRESSE": "Johnstraße 1-3",
+                "PLZ": 1140,
+                "WEBLINK1": "https://www.graetzlrad.wien/bicycle/velobis/",
+                "TYP": "Dolly Max Drive",
+                "RECHTSWERT_WGS84": 16.31632161,
+                "HOCHWERT_WGS84": 48.1928003,
+                "ICON": "Lastenrad",
+                "STATUS": "Aktiv"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "RADGRAETZELOGD.178157",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.50174846,
+                    48.22403462
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 178157,
+                "UNIQUEID": "GR17",
+                "BEZEICHNUNG": "Ursi",
+                "ADRESSE": "Hannah-Arendt-Platz 1",
+                "PLZ": 1220,
+                "WEBLINK1": "https://www.graetzlrad.wien/bicycle/seestadt-aspern-e-bike/",
+                "TYP": "Urban Arrow Family",
+                "RECHTSWERT_WGS84": 16.50174845,
+                "HOCHWERT_WGS84": 48.22403456,
+                "ICON": "Lastenrad",
+                "STATUS": "Aktiv"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "RADGRAETZELOGD.178158",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.50161118,
+                    48.22433505
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 178158,
+                "UNIQUEID": "GR18",
+                "BEZEICHNUNG": "Ferdi",
+                "ADRESSE": "Hannah-Arendt-Platz 1",
+                "PLZ": 1220,
+                "WEBLINK1": "https://www.graetzlrad.wien/bicycle/seestadt-aspern-trike/",
+                "TYP": "Fietsfabriek Bakfiets Classic",
+                "RECHTSWERT_WGS84": 16.50161117,
+                "HOCHWERT_WGS84": 48.22433499,
+                "ICON": "Lastenrad",
+                "STATUS": "Aktiv"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "RADGRAETZELOGD.178159",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.37031241,
+                    48.17570017
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 178159,
+                "UNIQUEID": "GR19",
+                "BEZEICHNUNG": "Smarter Together",
+                "ADRESSE": "Quellenstraße 149",
+                "PLZ": 1100,
+                "WEBLINK1": "https://www.graetzlrad.wien/bicycle/smarter-together/",
+                "TYP": "Bakfiets Classic Short",
+                "RECHTSWERT_WGS84": 16.37031241,
+                "HOCHWERT_WGS84": 48.1757001,
+                "ICON": "Lastenrad",
+                "STATUS": "Aktiv"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "RADGRAETZELOGD.178160",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.39457758,
+                    48.2022922
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 178160,
+                "UNIQUEID": "GR20",
+                "BEZEICHNUNG": "3Rad",
+                "ADRESSE": "Erdbergstraße 22",
+                "PLZ": 1030,
+                "WEBLINK1": "https://www.graetzlrad.wien/bicycle/3rad/",
+                "TYP": "Nihola Family",
+                "RECHTSWERT_WGS84": 16.39457757,
+                "HOCHWERT_WGS84": 48.20229213,
+                "ICON": "Lastenrad",
+                "STATUS": "Aktiv"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "RADGRAETZELOGD.178172",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.38816625,
+                    48.17794113
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 178172,
+                "UNIQUEID": "GR29",
+                "BEZEICHNUNG": "Schwerlastanhänger im Sonnwendviertel",
+                "ADRESSE": "Maria-Lassnig-Straße 36",
+                "PLZ": 1100,
+                "WEBLINK1": "https://www.graetzlrad.wien/bicycle/schwerlastanhaenger-im-sonnwendviertel/",
+                "TYP": "Carla Cargo",
+                "RECHTSWERT_WGS84": 16.38816625,
+                "HOCHWERT_WGS84": 48.17794106,
+                "ICON": "Lastenrad",
+                "STATUS": "Aktiv"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "RADGRAETZELOGD.178173",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.39266786,
+                    48.22695468
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 178173,
+                "UNIQUEID": "GR43",
+                "BEZEICHNUNG": "Starbike",
+                "ADRESSE": "Bruno-Marek-Alle 11",
+                "PLZ": 1020,
+                "WEBLINK1": "https://www.graetzlrad.wien/bicycle/starbike/",
+                "TYP": "Cannondale Wonderwagen",
+                "RECHTSWERT_WGS84": 16.39266785,
+                "HOCHWERT_WGS84": 48.22695461,
+                "ICON": "Lastenrad",
+                "STATUS": "Aktiv"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "RADGRAETZELOGD.178174",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.34305495,
+                    48.2266552
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 178174,
+                "UNIQUEID": "GR30",
+                "BEZEICHNUNG": "Währing",
+                "ADRESSE": "Währinger Straße 122",
+                "PLZ": 1180,
+                "WEBLINK1": "https://www.graetzlrad.wien/bicycle/waehring/",
+                "TYP": "Bakfiets CargoTrike Cruiser",
+                "RECHTSWERT_WGS84": 16.34305494,
+                "HOCHWERT_WGS84": 48.22665514,
+                "ICON": "Lastenrad",
+                "STATUS": "Aktiv"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "RADGRAETZELOGD.178175",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.37107002,
+                    48.19121433
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 178175,
+                "UNIQUEID": "GR32",
+                "BEZEICHNUNG": "Teenietreff FUX4",
+                "ADRESSE": "Favoritenstrasse 38",
+                "PLZ": 1040,
+                "WEBLINK1": "https://www.graetzlrad.wien/bicycle/teenietreff-fux4/",
+                "TYP": "Vogue Troy",
+                "RECHTSWERT_WGS84": 16.37107001,
+                "HOCHWERT_WGS84": 48.19121426,
+                "ICON": "Lastenrad",
+                "STATUS": "Aktiv"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "RADGRAETZELOGD.178176",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.32796978,
+                    48.17737129
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 178176,
+                "UNIQUEID": "GR33",
+                "BEZEICHNUNG": "Kostnix-Laden",
+                "ADRESSE": "Erlgasse 27",
+                "PLZ": 1120,
+                "WEBLINK1": "https://www.graetzlrad.wien/bicycle/kostnix-laden/",
+                "TYP": "Cangoo Easy",
+                "RECHTSWERT_WGS84": 16.32796977,
+                "HOCHWERT_WGS84": 48.17737122,
+                "ICON": "Lastenrad",
+                "STATUS": "Aktiv"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "RADGRAETZELOGD.178177",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3315074,
+                    48.21300951
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 178177,
+                "UNIQUEID": "GR45",
+                "BEZEICHNUNG": "Elfi",
+                "ADRESSE": "Haberlgasse 76",
+                "PLZ": 1160,
+                "WEBLINK1": "https://www.graetzlrad.wien/bicycle/elfi",
+                "TYP": "Riese und Müller Transporter 65 vario",
+                "RECHTSWERT_WGS84": 16.3315074,
+                "HOCHWERT_WGS84": 48.21300944,
+                "ICON": "Lastenrad",
+                "STATUS": "Aktiv"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "RADGRAETZELOGD.178178",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.36035794,
+                    48.19953862
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 178178,
+                "UNIQUEID": "GR46",
+                "BEZEICHNUNG": "Rooming Inn",
+                "ADRESSE": "Gumpendorferstraße 17",
+                "PLZ": 1060,
+                "WEBLINK1": "https://www.graetzlrad.wien/bicycle/rooming-inn",
+                "TYP": "Babboe Curve",
+                "RECHTSWERT_WGS84": 16.36035794,
+                "HOCHWERT_WGS84": 48.19953855,
+                "ICON": "Lastenrad",
+                "STATUS": "Aktiv"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "RADGRAETZELOGD.178179",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.40558316,
+                    48.19295904
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 178179,
+                "UNIQUEID": "GR50",
+                "BEZEICHNUNG": "Effenberg",
+                "ADRESSE": "Baumgasse 79",
+                "PLZ": 1030,
+                "WEBLINK1": "https://www.graetzlrad.wien/bicycle/effenberg/",
+                "TYP": "Babboe Flow",
+                "RECHTSWERT_WGS84": 16.40558316,
+                "HOCHWERT_WGS84": 48.19295897,
+                "ICON": "Lastenrad",
+                "STATUS": "Aktiv"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "RADGRAETZELOGD.178180",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.36524776,
+                    48.20170445
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 178180,
+                "UNIQUEID": "GR51",
+                "BEZEICHNUNG": "Hochschüler_innenschaft der Akademie der bildenden",
+                "ADRESSE": "Schillerplatz 3",
+                "PLZ": 1010,
+                "WEBLINK1": "https://www.graetzlrad.wien/bicycle/hochschueler_innenschaft-der-akademie-der-bildenden-kuenste",
+                "TYP": "eBullitt",
+                "RECHTSWERT_WGS84": 16.36524776,
+                "HOCHWERT_WGS84": 48.20170438,
+                "ICON": "Lastenrad",
+                "STATUS": "Aktiv"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "RADGRAETZELOGD.178181",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.26992369,
+                    48.19429332
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 178181,
+                "UNIQUEID": "GR52",
+                "BEZEICHNUNG": "Tante Käthes Grätzlrad",
+                "ADRESSE": "Käthe-Dorsch-Gasse 17/Stg.4/Top1",
+                "PLZ": 1140,
+                "WEBLINK1": "https://www.graetzlrad.wien/bicycle/tante-kaethes-graetzlrad",
+                "TYP": "Winora F.U.B. 3W",
+                "RECHTSWERT_WGS84": 16.26992368,
+                "HOCHWERT_WGS84": 48.19429326,
+                "ICON": "Lastenrad",
+                "STATUS": "Aktiv"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "RADGRAETZELOGD.178182",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.33944515,
+                    48.20826483
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 178182,
+                "UNIQUEID": "GR53",
+                "BEZEICHNUNG": "Radplatz",
+                "ADRESSE": "Kaiserstraße 106",
+                "PLZ": 1070,
+                "WEBLINK1": "https://www.graetzlrad.wien/bicycle/radplatz",
+                "TYP": "Velo de Ville ",
+                "RECHTSWERT_WGS84": 16.33944515,
+                "HOCHWERT_WGS84": 48.20826476,
+                "ICON": "Lastenrad",
+                "STATUS": "Aktiv"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "RADGRAETZELOGD.178183",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.44544779,
+                    48.23781386
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 178183,
+                "UNIQUEID": "GR55",
+                "BEZEICHNUNG": "Grätzlrad Kagran",
+                "ADRESSE": "Georg-Bilgeri-Straße 44",
+                "PLZ": 1220,
+                "WEBLINK1": "https://www.graetzlrad.wien/bicycle/graetzlrad-kagran",
+                "TYP": "E-Bullit",
+                "RECHTSWERT_WGS84": 16.44544779,
+                "HOCHWERT_WGS84": 48.2378138,
+                "ICON": "Lastenrad",
+                "STATUS": "Aktiv"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "RADGRAETZELOGD.178161",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.33742871,
+                    48.25347697
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 178161,
+                "UNIQUEID": "GR22",
+                "BEZEICHNUNG": "Nachbarschaft",
+                "ADRESSE": "Wenckebachgasse 49",
+                "PLZ": 1190,
+                "WEBLINK1": "https://www.graetzlrad.wien/bicycle/nachbarschaft/",
+                "TYP": "Urban Arrow Family",
+                "RECHTSWERT_WGS84": 16.33742871,
+                "HOCHWERT_WGS84": 48.2534769,
+                "ICON": "Lastenrad",
+                "STATUS": "Aktiv"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "RADGRAETZELOGD.178162",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.38759215,
+                    48.17900532
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 178162,
+                "UNIQUEID": "GR23",
+                "BEZEICHNUNG": "Familienrad",
+                "ADRESSE": "Maria-Lassnig-Straße 32",
+                "PLZ": 1100,
+                "WEBLINK1": "https://www.graetzlrad.wien/bicycle/familienrad/",
+                "TYP": "Bakfiets Classic Long",
+                "RECHTSWERT_WGS84": 16.38759214,
+                "HOCHWERT_WGS84": 48.17900525,
+                "ICON": "Lastenrad",
+                "STATUS": "Aktiv"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "RADGRAETZELOGD.178163",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.39973421,
+                    48.26151427
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 178163,
+                "UNIQUEID": "GR25",
+                "BEZEICHNUNG": "Nordsternmobil",
+                "ADRESSE": "Brünner Straße 27",
+                "PLZ": 1210,
+                "WEBLINK1": "https://www.graetzlrad.wien/bicycle/nordsternmobil/",
+                "TYP": "Christiania Event",
+                "RECHTSWERT_WGS84": 16.39973421,
+                "HOCHWERT_WGS84": 48.2615142,
+                "ICON": "Lastenrad",
+                "STATUS": "Aktiv"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "RADGRAETZELOGD.178164",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.35994134,
+                    48.19580538
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 178164,
+                "UNIQUEID": "GR35",
+                "BEZEICHNUNG": "zinc und Caffe vom See",
+                "ADRESSE": "Kettenbrückengasse 17",
+                "PLZ": 1050,
+                "WEBLINK1": "https://www.graetzlrad.wien/bicycle/zinc/",
+                "TYP": "Larry vs Harry Bullit",
+                "RECHTSWERT_WGS84": 16.35994133,
+                "HOCHWERT_WGS84": 48.19580532,
+                "ICON": "Lastenrad",
+                "STATUS": "Aktiv"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "RADGRAETZELOGD.178165",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.31789242,
+                    48.22083917
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 178165,
+                "UNIQUEID": "GR41",
+                "BEZEICHNUNG": "Klub Ensemble",
+                "ADRESSE": "Paletzgasse 22-24",
+                "PLZ": 1160,
+                "WEBLINK1": "https://www.graetzlrad.wien/bicycle/klub-ensemble/",
+                "TYP": "Larry vs Harry Bullitt",
+                "RECHTSWERT_WGS84": 16.31789242,
+                "HOCHWERT_WGS84": 48.22083911,
+                "ICON": "Lastenrad",
+                "STATUS": "Aktiv"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "RADGRAETZELOGD.178166",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.32274679,
+                    48.21179889
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 178166,
+                "UNIQUEID": "GR42",
+                "BEZEICHNUNG": "Die Schöne Pfuscherei",
+                "ADRESSE": "Kuffnergasse 7",
+                "PLZ": 1160,
+                "WEBLINK1": "https://www.graetzlrad.wien/bicycle/schoene-pfuscherei/",
+                "TYP": "Bakfiets CargoTrike",
+                "RECHTSWERT_WGS84": 16.32274679,
+                "HOCHWERT_WGS84": 48.21179882,
+                "ICON": "Lastenrad",
+                "STATUS": "Aktiv"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "RADGRAETZELOGD.178167",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.35718955,
+                    48.23199483
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 178167,
+                "UNIQUEID": "GR44",
+                "BEZEICHNUNG": "4lthangrund",
+                "ADRESSE": "Augasse 2-6",
+                "PLZ": 1090,
+                "WEBLINK1": "https://www.graetzlrad.wien/bicycle/4lthangrund/",
+                "TYP": "Olynko JSM1",
+                "RECHTSWERT_WGS84": 16.35718955,
+                "HOCHWERT_WGS84": 48.23199477,
+                "ICON": "Lastenrad",
+                "STATUS": "Aktiv"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "RADGRAETZELOGD.178168",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.38586804,
+                    48.1794408
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 178168,
+                "UNIQUEID": "GR47",
+                "BEZEICHNUNG": "Mio Transporter ",
+                "ADRESSE": "Bloch-Bauer-Promenade 20",
+                "PLZ": 1100,
+                "WEBLINK1": "https://www.graetzlrad.wien/bicycle/mio-transporter",
+                "TYP": "Bullitt mit Carla Cargo Anhänger",
+                "RECHTSWERT_WGS84": 16.38586803,
+                "HOCHWERT_WGS84": 48.17944074,
+                "ICON": "Lastenrad",
+                "STATUS": "Aktiv"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "RADGRAETZELOGD.178169",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.35332815,
+                    48.21216758
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 178169,
+                "UNIQUEID": "GR38",
+                "BEZEICHNUNG": "Le Bon Mot",
+                "ADRESSE": "Florianigasse 10/3/2",
+                "PLZ": 1080,
+                "WEBLINK1": "https://www.graetzlrad.wien/bicycle/le-bon-mot/",
+                "TYP": "Cube Cargo",
+                "RECHTSWERT_WGS84": 16.35332815,
+                "HOCHWERT_WGS84": 48.21216752,
+                "ICON": "Lastenrad",
+                "STATUS": "Aktiv"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "RADGRAETZELOGD.178170",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.50125874,
+                    48.22412421
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 178170,
+                "UNIQUEID": "GR27",
+                "BEZEICHNUNG": "Trude",
+                "ADRESSE": "Hannah-Arendt-Platz 1",
+                "PLZ": 1220,
+                "WEBLINK1": "https://www.graetzlrad.wien/bicycle/aspern-seestadt-e-trike/",
+                "TYP": "Bakfiets CargoTrike Classic",
+                "RECHTSWERT_WGS84": 16.50125873,
+                "HOCHWERT_WGS84": 48.22412414,
+                "ICON": "Lastenrad",
+                "STATUS": "Aktiv"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "RADGRAETZELOGD.178171",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.38777296,
+                    48.17846809
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 178171,
+                "UNIQUEID": "GR31",
+                "BEZEICHNUNG": "Lastenexpress",
+                "ADRESSE": "Maria-Lassnig-Straße 34",
+                "PLZ": 1100,
+                "WEBLINK1": "https://www.graetzlrad.wien/bicycle/lastenexpress/",
+                "TYP": "Larry vs Harry Bullitt",
+                "RECHTSWERT_WGS84": 16.38777296,
+                "HOCHWERT_WGS84": 48.17846802,
+                "ICON": "Lastenrad",
+                "STATUS": "Aktiv"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "RADGRAETZELOGD.178184",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.41377696,
+                    48.25721983
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 178184,
+                "UNIQUEID": "GR57",
+                "BEZEICHNUNG": "Repa-Rad-Tur",
+                "ADRESSE": "Bessemerstraße 38",
+                "PLZ": 1210,
+                "WEBLINK1": "https://www.graetzlrad.wien/bicycle/repa-rad-tur",
+                "TYP": "Urban Arrow ",
+                "RECHTSWERT_WGS84": 16.41377696,
+                "HOCHWERT_WGS84": 48.25721977,
+                "ICON": "Lastenrad",
+                "STATUS": "Aktiv"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "RADGRAETZELOGD.178185",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.38205935,
+                    48.21377907
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 178185,
+                "UNIQUEID": "GR58",
+                "BEZEICHNUNG": "Goldener Papagei",
+                "ADRESSE": "Praterstraße 17 ",
+                "PLZ": 1020,
+                "WEBLINK1": "https://www.graetzlrad.wien/bicycle/goldener-papagei",
+                "TYP": "Kettler Cargoline HT 600",
+                "RECHTSWERT_WGS84": 16.38205934,
+                "HOCHWERT_WGS84": 48.213779,
+                "ICON": "Lastenrad",
+                "STATUS": "Aktiv"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "RADGRAETZELOGD.178186",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.43864324,
+                    48.24109216
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 178186,
+                "UNIQUEID": "GR59",
+                "BEZEICHNUNG": "Donaumuli",
+                "ADRESSE": "Bernoullistraße 1 Ecke Curiegasse",
+                "PLZ": 1220,
+                "WEBLINK1": "https://www.graetzlrad.wien/bicycle/donaumuli",
+                "TYP": "Muli Motor EU",
+                "RECHTSWERT_WGS84": 16.43864324,
+                "HOCHWERT_WGS84": 48.24109209,
+                "ICON": "Lastenrad",
+                "STATUS": "Aktiv"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "RADGRAETZELOGD.178187",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.40027332,
+                    48.22084967
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 178187,
+                "UNIQUEID": "GR61",
+                "BEZEICHNUNG": "Maxi-Rad",
+                "ADRESSE": "Max-Winter-Platz 23",
+                "PLZ": 1020,
+                "WEBLINK1": "https://www.graetzlrad.wien/bicycle/maxi-rad",
+                "TYP": "Riese&Müller Carrie Vario",
+                "RECHTSWERT_WGS84": 16.40027332,
+                "HOCHWERT_WGS84": 48.22084961,
+                "ICON": "Lastenrad",
+                "STATUS": "Aktiv"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "RADGRAETZELOGD.178188",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.40460771,
+                    48.2193755
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 178188,
+                "UNIQUEID": "GR54",
+                "BEZEICHNUNG": "Rollstuhl-Grätzlrad",
+                "ADRESSE": "\r\nIlgplatz 2",
+                "PLZ": 1020,
+                "WEBLINK1": "https://www.graetzlrad.wien/bicycle/rollstuhl-graetzlrad",
+                "TYP": "Nihola Flex 2.0",
+                "RECHTSWERT_WGS84": 16.4046077,
+                "HOCHWERT_WGS84": 48.21937543,
+                "ICON": "Lastenrad",
+                "STATUS": "Aktiv"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "RADGRAETZELOGD.178189",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.34844134,
+                    48.21258445
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 178189,
+                "UNIQUEID": "GR56",
+                "BEZEICHNUNG": "Grätzllabor Josefstadt",
+                "ADRESSE": "Lederergasse 23/8/EG",
+                "PLZ": 1080,
+                "WEBLINK1": "https://www.graetzlrad.wien/bicycle/graetzllabor-josefstadt",
+                "TYP": "Christiania Bike ",
+                "RECHTSWERT_WGS84": 16.34844133,
+                "HOCHWERT_WGS84": 48.21258438,
+                "ICON": "Lastenrad",
+                "STATUS": "Aktiv"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "RADGRAETZELOGD.178190",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.36139758,
+                    48.22380728
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 178190,
+                "UNIQUEID": "GR60",
+                "BEZEICHNUNG": "Magika",
+                "ADRESSE": "Porzellangasse 49 /2/1",
+                "PLZ": 1090,
+                "WEBLINK1": "https://www.graetzlrad.wien/bicycle/magika",
+                "TYP": "Douze",
+                "RECHTSWERT_WGS84": 16.36139757,
+                "HOCHWERT_WGS84": 48.22380722,
+                "ICON": "Lastenrad",
+                "STATUS": "Aktiv"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "RADGRAETZELOGD.178191",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.34622371,
+                    48.20081144
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 178191,
+                "UNIQUEID": "GR62",
+                "BEZEICHNUNG": "Brilli Rad ",
+                "ADRESSE": "Bandgasse 4",
+                "PLZ": 1070,
+                "WEBLINK1": "https://www.graetzlrad.wien/bicycle/brillantengrund",
+                "TYP": "Urban Arrow Family ",
+                "RECHTSWERT_WGS84": 16.3462237,
+                "HOCHWERT_WGS84": 48.20081138,
+                "ICON": "Lastenrad",
+                "STATUS": "Aktiv"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "RADGRAETZELOGD.178192",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.39490764,
+                    48.20220581
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 178192,
+                "UNIQUEID": "GR65",
+                "BEZEICHNUNG": "Rikscha1030",
+                "ADRESSE": "Erdbergstrasse 22",
+                "PLZ": 1030,
+                "WEBLINK1": "https://www.graetzlrad.wien/bicycle/rikscha1030",
+                "TYP": "Christiania T-Modell Rikscha",
+                "RECHTSWERT_WGS84": 16.39490763,
+                "HOCHWERT_WGS84": 48.20220574,
+                "ICON": "Lastenrad",
+                "STATUS": "Aktiv"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "RADGRAETZELOGD.178193",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.33668718,
+                    48.19934835
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 178193,
+                "UNIQUEID": "GR64",
+                "BEZEICHNUNG": "Café Weingartner",
+                "ADRESSE": "Goldschlagstraße 6",
+                "PLZ": 1150,
+                "WEBLINK1": "https://www.graetzlrad.wien/bicycle/cafe-weingartner",
+                "TYP": "Riese & Müller Load 4",
+                "RECHTSWERT_WGS84": 16.33668717,
+                "HOCHWERT_WGS84": 48.19934829,
+                "ICON": "Lastenrad",
+                "STATUS": "Aktiv"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "RADGRAETZELOGD.178194",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.35056974,
+                    48.20899408
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 178194,
+                "UNIQUEID": "GR48",
+                "BEZEICHNUNG": "Die Schenke",
+                "ADRESSE": "\r\nPiaristengasse 33",
+                "PLZ": 1080,
+                "WEBLINK1": "https://www.graetzlrad.wien/bicycle/die-schenke",
+                "TYP": "Babboe Curve-E",
+                "RECHTSWERT_WGS84": 16.35056973,
+                "HOCHWERT_WGS84": 48.20899401,
+                "ICON": "Lastenrad",
+                "STATUS": "Aktiv"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "RADGRAETZELOGD.178195",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.33754998,
+                    48.22766882
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 178195,
+                "UNIQUEID": "GR49",
+                "BEZEICHNUNG": "Akoko",
+                "ADRESSE": "Währinger Straße 131",
+                "PLZ": 1180,
+                "WEBLINK1": "https://www.graetzlrad.wien/bicycle/akoko",
+                "TYP": "Johansson Fiete",
+                "RECHTSWERT_WGS84": 16.33754997,
+                "HOCHWERT_WGS84": 48.22766876,
+                "ICON": "Lastenrad",
+                "STATUS": "Aktiv"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "RADGRAETZELOGD.178196",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.29796159,
+                    48.1521658
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 178196,
+                "UNIQUEID": "GR63",
+                "BEZEICHNUNG": "Liesi",
+                "ADRESSE": "Gastgebgasse 8/1",
+                "PLZ": 1230,
+                "WEBLINK1": "https://www.graetzlrad.wien/bicycle/liesi",
+                "TYP": "Riese & Müller LOAD 60 Vario",
+                "RECHTSWERT_WGS84": 16.29796158,
+                "HOCHWERT_WGS84": 48.15216573,
+                "ICON": "Lastenrad",
+                "STATUS": "Aktiv"
+            }
+        }
+    ],
+    "totalFeatures": 49,
+    "numberMatched": 49,
+    "numberReturned": 49,
+    "timeStamp": "2026-11-22T10:45:19.007Z",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    }
+}

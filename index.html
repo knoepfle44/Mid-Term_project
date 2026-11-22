@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Who Owns the Smart City? – Story Map Vienna</title>
+  <meta name="description" content="Interactive story map on the distribution of digital infrastructure (Wi-Fi, bike sharing, charging stations) in Vienna.">
+
+  <!-- Leaflet (mapping library) via CDN -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+
+  <!-- Our own stylesheet (layout, colors, visual hierarchy) -->
+  <link rel="stylesheet" href="styles/styles.css">
+</head>
+<body>
+
+  <!-- ================================================================
+       HEADER: title and subtitle (top level of the visual hierarchy)
+       ================================================================ -->
+  <header id="site-header">
+    <h1>Where is the Smart City?</h1>
+    <p class="subtitle">Distribution of digital infrastructure in Vienna's public space</p>
+  </header>
+
+  <!-- ================================================================
+       MAIN AREA: map (fixed) + story (scrolls)
+       ================================================================ -->
+  <main id="layout">
+
+    <!-- MAP: filled with Leaflet by js/map.js -->
+    <div id="map-container">
+      <div id="map" role="application" aria-label="Interactive map of Vienna"></div>
+
+      <!-- INTERACTIVE LEGEND: checkboxes toggle layers on/off (js/map.js) -->
+      <aside id="legend" aria-label="Map legend">
+        <h2>Legend</h2>
+        <label class="legend-item">
+          <input type="checkbox" data-layer="wifi" checked>
+          <span class="legend-symbol symbol-wifi"></span>
+          Free Wi-Fi
+        </label>
+        <label class="legend-item">
+          <input type="checkbox" data-layer="bike" checked>
+          <span class="legend-symbol symbol-bike"></span>
+          Bike-sharing station
+        </label>
+        <label class="legend-item">
+          <input type="checkbox" data-layer="charging" checked>
+          <span class="legend-symbol symbol-charging"></span>
+          EV charging station
+        </label>
+        <label class="legend-item">
+          <input type="checkbox" data-layer="districts" checked>
+          <span class="legend-symbol symbol-districts"></span>
+          District boundaries
+        </label>
+      </aside>
+    </div>
+
+    <!-- STORY: each <section> is one chapter.
+         data-chapter = ID that js/story.js links to the chapter configuration. -->
+    <div id="story">
+
+      <!-- Chapter 1: Introduction -->
+      <section class="chapter" id="intro" data-chapter="intro">
+        <h2>The Promised City</h2>
+        <p>
+           Vienna presents itself as a smart city, but whether digital infrastructure
+    such as public Wi-Fi, bike sharing and charging stations is equally accessible
+    across the city remains an open question. Access to this infrastructure shapes
+    who can move, connect and participate in urban life, which makes it central to
+    sustainable urban development. This story map follows three kinds of
+    infrastructure across Vienna's 23 districts to ask who the smart city is
+    actually built for. Scroll down to explore where these services are
+    concentrated, and where they are missing.
+        </p>
+      </section>
+
+      <!-- Chapter 2: Free Wi-Fi -->
+      <section class="chapter" id="wifi" data-chapter="wifi">
+        <h2>Free Wi-Fi</h2>
+        <p>
+          TODO: Where is public Wi-Fi available? What stands out in its distribution?
+        </p>
+      </section>
+
+      <!-- Chapter 3: Bike sharing -->
+      <section class="chapter" id="bike" data-chapter="bike">
+        <h2>Bike Sharing</h2>
+        <p>
+          TODO: Where are the stations located? Where are the gaps?
+        </p>
+      </section>
+
+      <!-- Chapter 4: Charging stations -->
+      <section class="chapter" id="charging" data-chapter="charging">
+        <h2>EV Charging Stations</h2>
+        <p>
+          TODO: Where is e-mobility supported, and where is it not?
+        </p>
+      </section>
+
+      <!-- Chapter 5: Critical conclusion -->
+      <section class="chapter" id="conclusion" data-chapter="conclusion">
+        <h2>Critical Conclusion</h2>
+        <p>
+          TODO: All layers combined. What does the map show, and what does it
+          not show? Selection bias, data gaps, tourism vs. everyday life.
+        </p>
+      </section>
+
+    </div>
+  </main>
+
+  <!-- ================================================================
+       FOOTER: source attribution (required by the assignment)
+       ================================================================ -->
+  <footer id="sources">
+    <h2>Sources</h2>
+    <ul>
+      <li>Map data: © <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a> contributors, © <a href="https://carto.com/attributions" target="_blank" rel="noopener">CARTO</a></li>
+      <li>Open Government Data: <a href="https://www.data.gv.at" target="_blank" rel="noopener">City of Vienna – data.gv.at</a> (TODO: add specific datasets and license)</li>
+      <li>TODO: add further sources</li>
+    </ul>
+    <p class="note">
+      Note: The data points were selected manually (see README for selection criteria).
+    </p>
+  </footer>
+
+  <!-- Fallback in case JavaScript is disabled -->
+  <noscript>This story map requires JavaScript.</noscript>
+
+  <!-- ================================================================
+       SCRIPTS: order matters!
+       1. Leaflet  2. data.js (load data)  3. map.js (map)  4. story.js (scroll logic)
+       ================================================================ -->
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="scripts/data.js"></script>
+  <script src="scripts/map.js"></script>
+  <script src="scripts/story.js"></script>
+</body>
+</html>

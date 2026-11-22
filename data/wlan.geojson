@@ -1,0 +1,4675 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851699",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3826509,
+                    48.21109731
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851699,
+                "NAME": "Julius Raab Platz",
+                "ADRESSE": "1., Julius Raab Platz ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851700",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.36479078,
+                    48.19791212
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851700,
+                "NAME": "Kuehnplatz",
+                "ADRESSE": "4., Kuehnplatz 5 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851701",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.40132176,
+                    48.25528769
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851701,
+                "NAME": "Franklinstraße 21",
+                "ADRESSE": "21., Franklinstraße 21 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851702",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.40242277,
+                    48.25474645
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851702,
+                "NAME": "Franklinstraße 22",
+                "ADRESSE": "21., Franklinstraße 22 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851703",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.380721,
+                    48.17789116
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851703,
+                "NAME": "Helmut Zilk Park",
+                "ADRESSE": "10., Gudrunstrasse 110 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851707",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.39630625,
+                    48.25170311
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851707,
+                "NAME": "Wasserpark Liegewiese",
+                "ADRESSE": "21., Wasserpark Liegewiese ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851708",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.40427765,
+                    48.25030113
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851708,
+                "NAME": "An der oberen alten Donau # Birnersteig",
+                "ADRESSE": "21., An der oberen alten Donau ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851709",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.40023721,
+                    48.25483645
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851709,
+                "NAME": "Brossmannplatz",
+                "ADRESSE": "21., Bodenstaedtgasse geg 18 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851711",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.33414418,
+                    48.22087095
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851711,
+                "NAME": "Dornerplatz",
+                "ADRESSE": "17., Dornerplatz 13 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851712",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.33657368,
+                    48.22387887
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851712,
+                "NAME": "Johann Nepomuk Vogl Platz",
+                "ADRESSE": "18., Teschnergasse geg 8 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851721",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3193546,
+                    48.18405933
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851721,
+                "NAME": "Gruenbergstrasse Eingang Schloss Schoenbrunn",
+                "ADRESSE": "12., Schoenbrunner Strasse 282 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851724",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.22283858,
+                    48.20868861
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851724,
+                "NAME": "Hadersdorf Weidlingau Bad",
+                "ADRESSE": "14., Hauptstrasse 41 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851726",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.28511065,
+                    48.147983
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851726,
+                "NAME": "Höpflerbad\r\nHöpflerbad\r\n",
+                "ADRESSE": "23., Endresstrasse 24-26 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851727",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.28069405,
+                    48.13254761
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851727,
+                "NAME": "Liesingerbad",
+                "ADRESSE": "23., Perchtoldsdorfer Strasse 14 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851728",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.28339957,
+                    48.19875499
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851728,
+                "NAME": "Pachmanngasse 25",
+                "ADRESSE": "14., Pachmanngasse 25 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851729",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.38398315,
+                    48.15920595
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851729,
+                "NAME": "Laabergbad 2",
+                "ADRESSE": "10., Ludwig von Hoehnel Gasse 2 (2) ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851730",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.38545255,
+                    48.15925712
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851730,
+                "NAME": "Laabergbad 1",
+                "ADRESSE": "10., Ludwig von Hoehnel Gasse 2 (1) ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851738",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.41725432,
+                    48.24272289
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851738,
+                "NAME": "Alte Donau Bad",
+                "ADRESSE": "22., Arbeiterstrandbadstrasse 91 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851739",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.37550551,
+                    48.18112785
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851739,
+                "NAME": "Favoritenstrasse",
+                "ADRESSE": "10., Favoritenstrasse 77 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851740",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.37653805,
+                    48.17800315
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851740,
+                "NAME": "Favoritenstrasse 80",
+                "ADRESSE": "10., Favoritenstrasse 80 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851749",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.40187849,
+                    48.22196513
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851749,
+                "NAME": "Vorgartenmarkt",
+                "ADRESSE": "2., Vorgartenmarkt ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851751",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.33871731,
+                    48.22653804
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851751,
+                "NAME": "Schubertpark",
+                "ADRESSE": "18., Schubertpark ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851754",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3524379,
+                    48.2291479
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851754,
+                "NAME": "Helene Deutsch Park",
+                "ADRESSE": "9., Helene Deutsch Park ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851755",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.343243,
+                    48.21690873
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851755,
+                "NAME": "Heinz Heger Park",
+                "ADRESSE": "9., Zimmermannplatz 1 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851758",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.32974336,
+                    48.17340535
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851758,
+                "NAME": "Theodor Koerner Park",
+                "ADRESSE": "12., Schedifkaplatz ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851759",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.32623554,
+                    48.21527067
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851759,
+                "NAME": "Lorenz Bayer Park",
+                "ADRESSE": "17., Lorenz Bayer Platz 17 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851763",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.44811589,
+                    48.27015965
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851763,
+                "NAME": "Hedwig und Johann Schneider Park",
+                "ADRESSE": "21., Kuerschnerstrasse 5 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851764",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.42104904,
+                    48.16989923
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851764,
+                "NAME": "Simmeringer Platz",
+                "ADRESSE": "11., Simmeringer Hauptstrasse 153 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851766",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.40019476,
+                    48.25567616
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851766,
+                "NAME": "Ubahn Station Floridsdorf",
+                "ADRESSE": "21., Franklinstrasse # Rechte Nordbahngasse ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851773",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.36714703,
+                    48.20085816
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851773,
+                "NAME": "Esperantopark",
+                "ADRESSE": "1., Friedrichstrasse 6 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851775",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3531625,
+                    48.19062669
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851775,
+                "NAME": "Wientalterrasse",
+                "ADRESSE": "5., Rechte Wienzeile 111 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851776",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.318175,
+                    48.21449939
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851776,
+                "NAME": "Familienplatz",
+                "ADRESSE": "16., Familienplatz 5 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851782",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.33660818,
+                    48.24324433
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851782,
+                "NAME": "Weinberggasse geg 28",
+                "ADRESSE": "19., Weinberggasse geg 28 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851783",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.33694891,
+                    48.27479515
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851783,
+                "NAME": "Am Kahlenberg",
+                "ADRESSE": "19., Am Kahlenberg ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851784",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.34372563,
+                    48.2454562
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851784,
+                "NAME": "Strauss Lanner Park",
+                "ADRESSE": "19., Strauss Lanner Park ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851798",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.377315,
+                    48.24697599
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851798,
+                "NAME": "Kapaunplatz",
+                "ADRESSE": "20., Kapaunplatz ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851800",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.358724,
+                    48.21129803
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851800,
+                "NAME": "Rathauspl01",
+                "ADRESSE": "1., Rathausplatz (1) ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851801",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.35910423,
+                    48.21096359
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851801,
+                "NAME": "Rathauspl02",
+                "ADRESSE": "1., Rathausplatz (2) ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851802",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.35949022,
+                    48.2107335
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851802,
+                "NAME": "Rathauspl04",
+                "ADRESSE": "1., Rathausplatz (4) ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851803",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3601223,
+                    48.21064869
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851803,
+                "NAME": "Rathauspl05",
+                "ADRESSE": "1., Rathausplatz (5) ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851804",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.35907143,
+                    48.21043291
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851804,
+                "NAME": "Rathauspl07",
+                "ADRESSE": "1., Rathausplatz (7) ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851805",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.35906072,
+                    48.21042863
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851805,
+                "NAME": "Rathauspl08",
+                "ADRESSE": "1., Rathausplatz (8) ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851806",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.35890143,
+                    48.21027502
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851806,
+                "NAME": "Rathauspl09",
+                "ADRESSE": "1., Rathausplatz (9) ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851808",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.37536357,
+                    48.19101066
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851808,
+                "NAME": "St.-Elisabeth-Platz",
+                "ADRESSE": "4., Belvederegasse 20 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851794",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.38601983,
+                    48.23468774
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851794,
+                "NAME": "Mortaraplatz ",
+                "ADRESSE": "20., Mortaraplatz 3 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851817",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.32633264,
+                    48.16402589
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851817,
+                "NAME": "Miep Gies Park ",
+                "ADRESSE": "12., Thorvaldsengasse 36 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851821",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.33282418,
+                    48.18129445
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851821,
+                "NAME": "Hermann Leopoldi Park",
+                "ADRESSE": "12., Grieshofgasse # Niederhofgasse ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851823",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.32987319,
+                    48.18205156
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851823,
+                "NAME": "Meidlinger Hauptstrasse ",
+                "ADRESSE": "12., Meidlinger Hauptstrasse 8-10 (1) ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851824",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.32976915,
+                    48.18169686
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851824,
+                "NAME": "Meidlinger Platzl",
+                "ADRESSE": "12., Meidlinger Hauptstrasse 8-10 (2) ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851828",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.33017038,
+                    48.17516048
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851828,
+                "NAME": "Meidlinger Hauptstrasse 84",
+                "ADRESSE": "12., Meidlinger Hauptstrasse 82 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851832",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.30155182,
+                    48.1859612
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851832,
+                "NAME": "Am Platz",
+                "ADRESSE": "13., Am Platz 9  ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851837",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.26080369,
+                    48.19827687
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851837,
+                "NAME": "Bahnhof Huetteldorf",
+                "ADRESSE": "14., Keisslergasse 18 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851842",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.32538978,
+                    48.1974103
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851842,
+                "NAME": "Kardinal Rauscher Platz ",
+                "ADRESSE": "15., Kardinal Rauscher Platz 2 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851843",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.31496917,
+                    48.20676528
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851843,
+                "NAME": "Rohrauerpark",
+                "ADRESSE": "15., Rohrauerpark ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851844",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.31909647,
+                    48.19418833
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851844,
+                "NAME": "Wieningerplatz",
+                "ADRESSE": "15., Wieningerplatz 7 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851846",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.32553522,
+                    48.21296197
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851846,
+                "NAME": "Johann Nepomuk Berger Platz",
+                "ADRESSE": "16., Johann Nepomuk Berger Platz 12 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851849",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.33299694,
+                    48.20899758
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851849,
+                "NAME": "Hofferpark",
+                "ADRESSE": "16., Hofferplatz 6 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851850",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.32746696,
+                    48.2095136
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851850,
+                "NAME": "Richard Wagner Platz",
+                "ADRESSE": "16., Richard Wagner Platz 19 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851851",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.31701525,
+                    48.2213523
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851851,
+                "NAME": "Stoeberpark",
+                "ADRESSE": "16., Stoeberplatz geg 3 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851852",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.31868536,
+                    48.21035095
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851852,
+                "NAME": "Schuhmeierplatz",
+                "ADRESSE": "16., Schuhmeierplatz geg 8 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851853",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.30474357,
+                    48.21376853
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851853,
+                "NAME": "Karl Kantner Park",
+                "ADRESSE": "16., Thaliastrasse geg 157 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851854",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.31202971,
+                    48.21251964
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851854,
+                "NAME": "U3 Ottakring",
+                "ADRESSE": "16., Paltaufgasse 16 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851856",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.32319288,
+                    48.22421093
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851856,
+                "NAME": "Lidlpark",
+                "ADRESSE": "17., Lidlpark ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851858",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.29813194,
+                    48.22929108
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851858,
+                "NAME": "Rupertusplatz",
+                "ADRESSE": "17., Rupertusplatz 2 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851859",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.40729402,
+                    48.28123117
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851859,
+                "NAME": "Bernreiterpark",
+                "ADRESSE": "21., Bernreiterpark ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851860",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.33512468,
+                    48.2264573
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851860,
+                "NAME": "Ebner Eschenbach Park",
+                "ADRESSE": "18., Ebner Eschenbach Park 78 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851861",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.37135483,
+                    48.2296997
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851861,
+                "NAME": "Wallensteinplatz",
+                "ADRESSE": "20., Wallensteinplatz geg 2 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851862",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.39968408,
+                    48.25131909
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851862,
+                "NAME": "Tora San Park",
+                "ADRESSE": "21., Brossmannplatz ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851865",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.40751259,
+                    48.25521671
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851865,
+                "NAME": "Hossplatz",
+                "ADRESSE": "21., Hossplatz 12 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851866",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.42414102,
+                    48.22589286
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851866,
+                "NAME": "Schuettauplatz",
+                "ADRESSE": "22., Schuettauplatz ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851868",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.44832623,
+                    48.24877194
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851868,
+                "NAME": "Kagraner Platz",
+                "ADRESSE": "22., Kagraner Platz 15 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851870",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.47437991,
+                    48.22243094
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851870,
+                "NAME": "Wonkaplatz",
+                "ADRESSE": "22., Erzherzog Karl Strasse 209 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851877",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.2825066,
+                    48.13527077
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851877,
+                "NAME": "Liesinger Platz",
+                "ADRESSE": "23., Liesinger Platz ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851879",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.31522865,
+                    48.14031995
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851879,
+                "NAME": "PaN Park",
+                "ADRESSE": "23., Carlbergergasse 72 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851883",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.34700401,
+                    48.15002348
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851883,
+                "NAME": "Inzersdorf Kirchenplatz",
+                "ADRESSE": "23., Draschestrasse 98 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851884",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.33229317,
+                    48.21747384
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851884,
+                "NAME": "St. Bartholomaeus Platz",
+                "ADRESSE": "17., Kalvarienberggasse 26A ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851885",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.39295357,
+                    48.25149878
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851885,
+                "NAME": "Wasserpark",
+                "ADRESSE": "21., Wasserpark Fitnessplatz ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851886",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.36468573,
+                    48.21183931
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851886,
+                "NAME": "Freyung 6A",
+                "ADRESSE": "1., Freyung 6A ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851887",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.31094645,
+                    48.19600127
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851887,
+                "NAME": "Reinlpark",
+                "ADRESSE": "14., Reinlpark ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851888",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.32612867,
+                    48.21286846
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851888,
+                "NAME": "Johann-Nepomuk-Berger-Platz",
+                "ADRESSE": "16., Johann-Nepomuk-Berger-Platz ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851891",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.39459385,
+                    48.2526026
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851891,
+                "NAME": "Wasserpark",
+                "ADRESSE": "21., Wasserpark Spielplatz ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851892",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.31868991,
+                    48.19650973
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851892,
+                "NAME": "Forschneritschpark",
+                "ADRESSE": "15., Märzstraße 92 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851893",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.41824565,
+                    48.23064888
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851893,
+                "NAME": "Goethehof 2",
+                "ADRESSE": "22., Schüttaustraße 1-39 Stiege 6 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851894",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.32084517,
+                    48.19751289
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851894,
+                "NAME": "Wasserwelt",
+                "ADRESSE": "15., Meiselstrasse 11 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851895",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.42111812,
+                    48.22901036
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851895,
+                "NAME": null,
+                "ADRESSE": "22., Goethehof 3 Stiege 50 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851896",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.42044393,
+                    48.22918928
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851896,
+                "NAME": "Goethehof 4",
+                "ADRESSE": "22., Goethehof 4 Stiege 43 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851900",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.33202801,
+                    48.26610473
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851900,
+                "NAME": "Krapfenwaldbad",
+                "ADRESSE": "19., Krapfenwaldbad_Master ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851902",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.34587449,
+                    48.20054841
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851902,
+                "NAME": "Dorothea-Neff-Park",
+                "ADRESSE": "7., Bandgasse 2 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851903",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.33951116,
+                    48.20780247
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851903,
+                "NAME": "Josef-Strauß-Park",
+                "ADRESSE": "7., Kaiserstraße geg. 117 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851904",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.38860265,
+                    48.18814856
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851904,
+                "NAME": "Schweizergarten",
+                "ADRESSE": "3., Landstraßer Gürtel 2A ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851905",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.44771154,
+                    48.2720359
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851905,
+                "NAME": "Kürschnerstraße Skaterpark",
+                "ADRESSE": "21., Kürschnerstraße gegenüber 9 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851906",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.36586846,
+                    48.20008102
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851906,
+                "NAME": "Naschmarkt Secession",
+                "ADRESSE": "1., Friedrichstraße 12 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851907",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.39213567,
+                    48.22823543
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851907,
+                "NAME": "Nordbahnhofgelände",
+                "ADRESSE": "2., Taborstraße 118 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851908",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.39303916,
+                    48.22631665
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851908,
+                "NAME": "Nordbahnhofgelände",
+                "ADRESSE": "2., Schweidlgasse 34 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851909",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.38560124,
+                    48.17970822
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851909,
+                "NAME": "Bloch-Bauer-Promenade",
+                "ADRESSE": "10., Sissy-Löwinger-Weg 5 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851911",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.32406354,
+                    48.19683913
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851911,
+                "NAME": "Kardinal Rauscher Platz  Kirche\r\nKirche",
+                "ADRESSE": "15., Kardinal Rauscher Platz 2 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851912",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.32259979,
+                    48.19737893
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851912,
+                "NAME": "Meiselstrasse 2",
+                "ADRESSE": "15., Meiselstrasse 2 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851913",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.39307255,
+                    48.23287658
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851913,
+                "NAME": "Parkanlage Innstrasse",
+                "ADRESSE": "2., Engerthstrasse geg. 137 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851915",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.32619289,
+                    48.22140736
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851915,
+                "NAME": "Gschwandnergasse 62",
+                "ADRESSE": "17., Gschwandnergasse 62 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851916",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.368548,
+                    48.21006288
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851916,
+                "NAME": "Bognergasse ",
+                "ADRESSE": "1., Bognergasse 4 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851917",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.36895321,
+                    48.20976805
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851917,
+                "NAME": "Tuchlauben",
+                "ADRESSE": "1., Tuchlauben 2  ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851918",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.36617082,
+                    48.20953809
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851918,
+                "NAME": "Herrengasse",
+                "ADRESSE": "1., Fahnengasse 2 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851919",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.32753588,
+                    48.15945327
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851919,
+                "NAME": "Schöpfwerk",
+                "ADRESSE": "12., Parkanlage Schöpfwerk ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851920",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.41826071,
+                    48.24224171
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851920,
+                "NAME": "Alte Donau Bad 2",
+                "ADRESSE": "22., Arbeiterstrandbadstrasse 91 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851921",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.40956927,
+                    48.23208686
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851921,
+                "NAME": "Copa Beach 1",
+                "ADRESSE": "22., Copa Cagrana ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851922",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.40989388,
+                    48.23182491
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851922,
+                "NAME": "Copa Beach 2",
+                "ADRESSE": "22., Copa Cagrana ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851923",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.40592464,
+                    48.27713169
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851923,
+                "NAME": "Haspingerplatz",
+                "ADRESSE": "21., Haspingerplatz geg 1 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851924",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.34941855,
+                    48.23330204
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851924,
+                "NAME": "Waehringerpark_Phillippovichgasse",
+                "ADRESSE": "18., Waehringerpark ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851925",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3478957,
+                    48.23209166
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851925,
+                "NAME": "Waehringerpark_Skaterpark",
+                "ADRESSE": "18., Waehringerpark ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851926",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.34825176,
+                    48.23171091
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851926,
+                "NAME": "Waehringerpark_Spielplatz",
+                "ADRESSE": "18., Waehringerpark ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851927",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.42038117,
+                    48.23071997
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851927,
+                "NAME": "Goethehof 1",
+                "ADRESSE": "22., Weissauweg geg. 1 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851929",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.25582566,
+                    48.20244005
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851929,
+                "NAME": "Karl Terkal Park",
+                "ADRESSE": "14., Bujattigasse ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851930",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.32669362,
+                    48.19097221
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851930,
+                "NAME": "Schwendermarkt",
+                "ADRESSE": "15., Schwendergasse geg. 33 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851931",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.36838163,
+                    48.23228298
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851931,
+                "NAME": "Hannovermarkt",
+                "ADRESSE": "20., Hannovermarkt geg 31 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851610",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.36155811,
+                    48.18982866
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851610,
+                "NAME": "Schuette Lihotzky Park",
+                "ADRESSE": "5., Mittersteig 26 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851611",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.37640501,
+                    48.21223962
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851611,
+                "NAME": "Schwedenplatz 25",
+                "ADRESSE": "1., Schwedenplatz 25 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851618",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.38640128,
+                    48.22292564
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851618,
+                "NAME": "Volkert Platz",
+                "ADRESSE": "2., Volkert Platz ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851620",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.40167875,
+                    48.2259118
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851620,
+                "NAME": "Mexikoplatz 16",
+                "ADRESSE": "2., Mexikoplatz 16 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851621",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.37675402,
+                    48.21741681
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851621,
+                "NAME": "Karmelitermarkt",
+                "ADRESSE": "2., Karmelitermarkt ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851622",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.397276,
+                    48.22518511
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851622,
+                "NAME": "Jakov Lind Strasse 26",
+                "ADRESSE": "2., Rudolf Bednar Park (2) ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851623",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.39591919,
+                    48.22679324
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851623,
+                "NAME": "Rudolf Bednar Park",
+                "ADRESSE": "2., Rudolf Bednar Park (1) ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851625",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.34351374,
+                    48.18757847
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851625,
+                "NAME": "Bruno Kreisky Park",
+                "ADRESSE": "5., Schoenbrunner Strasse 149 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851631",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.34478041,
+                    48.22611061
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851631,
+                "NAME": "Gertrudplatz",
+                "ADRESSE": "18., Waehringerstrasse 95 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851634",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.35532777,
+                    48.18797347
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851634,
+                "NAME": "Bacherpark",
+                "ADRESSE": "5., Bacherplatz 11 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851638",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.38134377,
+                    48.18849006
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851638,
+                "NAME": "Belvedere",
+                "ADRESSE": "3., Landstrasser Guertel 1 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851639",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.38101308,
+                    48.2035041
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851639,
+                "NAME": "Stadtpark",
+                "ADRESSE": "3., Reisnerstrasse ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851640",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.37841526,
+                    48.20241788
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851640,
+                "NAME": "Lothringerstrasse 13",
+                "ADRESSE": "1., Lothringerstrasse 13 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851645",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.40382826,
+                    48.18770598
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851645,
+                "NAME": "Robert Hochner Park",
+                "ADRESSE": "3., Robert Hochner Park ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851648",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.38527778,
+                    48.20579057
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851648,
+                "NAME": "Landstrasse Hauptstrasse 2A",
+                "ADRESSE": "3., Landstrasser Hauptstrasse 2B ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851649",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.36833544,
+                    48.18648812
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851649,
+                "NAME": "Alois Drasche Park 4",
+                "ADRESSE": "4., Alois Drasche Park 4 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851650",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.37112435,
+                    48.19861114
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851650,
+                "NAME": "Resselpark",
+                "ADRESSE": "4., Karlsplatz 12 (2) ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851651",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.36843,
+                    48.19962269
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851651,
+                "NAME": "Resselpark",
+                "ADRESSE": "4., Wiedner Hauptstrasse 1 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851655",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.35180434,
+                    48.19791476
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851655,
+                "NAME": "Esterházypark",
+                "ADRESSE": "6., Esterhazypark ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851658",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3464595,
+                    48.19228274
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851658,
+                "NAME": "Hubert Marischka Park",
+                "ADRESSE": "6., Stumpergasse 12 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851660",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.34263127,
+                    48.20754065
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851660,
+                "NAME": "Ceija Stojka Platz",
+                "ADRESSE": "7., Lerchenfelder Strasse 103-109 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851663",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.34635793,
+                    48.20441828
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851663,
+                "NAME": "Karl Farkas Park",
+                "ADRESSE": "7., Burggasse 72 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851664",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.34722903,
+                    48.1987637
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851664,
+                "NAME": "Andreaspark",
+                "ADRESSE": "7., Andreasgasse 7 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851665",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3581237,
+                    48.19156705
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851665,
+                "NAME": "Margaretenplatz",
+                "ADRESSE": "5., Margaretenplatz 5 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851671",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.34650408,
+                    48.21239382
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851671,
+                "NAME": "Schlesingerplatz",
+                "ADRESSE": "8., Schlesingerplatz 4 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851673",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.34400516,
+                    48.2142525
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851673,
+                "NAME": "Albertplatz",
+                "ADRESSE": "8., Albertplatz 5 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851674",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.41364649,
+                    48.22461455
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851674,
+                "NAME": "Wasserspielplatz",
+                "ADRESSE": "22., Donauinsel (24) ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851675",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.415667,
+                    48.22310694
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851675,
+                "NAME": "Liegewiese",
+                "ADRESSE": "22., Donauinsel (25) ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851676",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.41794222,
+                    48.22189518
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851676,
+                "NAME": "Kaisermuehlenbruecke",
+                "ADRESSE": "22., Donauinsel (26) ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851677",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.30112751,
+                    48.23769787
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851677,
+                "NAME": "Schafbergbad_Rutsche",
+                "ADRESSE": "18., Schafbergbad (2) ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851678",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.30164736,
+                    48.23637764
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851678,
+                "NAME": "Schafbergbad_Kassa",
+                "ADRESSE": "18., Schafbergbad (1) ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851679",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3057933,
+                    48.1984286
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851679,
+                "NAME": "Ludwig Zatzka Park",
+                "ADRESSE": "14.,  ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851687",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.37732829,
+                    48.23959501
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851687,
+                "NAME": "Hoechstaedtplatz ",
+                "ADRESSE": "20., Hoechstaedtplatz 5 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851695",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.31901011,
+                    48.19779844
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851695,
+                "NAME": "Meiselmarkt # Johnstrasse",
+                "ADRESSE": "15., Johnstrasse 57 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851489",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.37137964,
+                    48.20801287
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851489,
+                "NAME": "Stephansplatz1",
+                "ADRESSE": "1., Seilergasse 1 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851490",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.36117584,
+                    48.2025116
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851490,
+                "NAME": "Mariahilferstr 2",
+                "ADRESSE": "7., Mariahilferstrasse 2 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851491",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.35946351,
+                    48.20124747
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851491,
+                "NAME": "Mariahilferstr 12",
+                "ADRESSE": "7., Mariahilferstrasse 12 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851492",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.35743385,
+                    48.20075759
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851492,
+                "NAME": "Mariahilferstr 22",
+                "ADRESSE": "7., Mariahilferstrasse 22 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851493",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.35547036,
+                    48.20013435
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851493,
+                "NAME": "Mariahilferstr 41",
+                "ADRESSE": "7., Mariahilferstrasse 41 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851494",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.35328848,
+                    48.19960652
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851494,
+                "NAME": "Mariahilferstr 42",
+                "ADRESSE": "7., Mariahilferstrasse 42 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851495",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.35139242,
+                    48.19876466
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851495,
+                "NAME": "Mariahilferstr 67",
+                "ADRESSE": "6., Mariahilferstrasse 67 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851496",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.35003631,
+                    48.19820015
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851496,
+                "NAME": "Mariahilferstr 75",
+                "ADRESSE": "6., Mariahilferstrasse 75 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851497",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.34772461,
+                    48.19758392
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851497,
+                "NAME": "Mariahilferstr 84",
+                "ADRESSE": "7., Mariahilferstrasse 84 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851498",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.34619609,
+                    48.1970808
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851498,
+                "NAME": "Mariahilferstr 97",
+                "ADRESSE": "6., Mariahilferstrasse 97 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851499",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.34434032,
+                    48.19681115
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851499,
+                "NAME": "Mariahilferstr 102",
+                "ADRESSE": "7., Mariahilferstrasse 102 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851500",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.34199115,
+                    48.19627311
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851500,
+                "NAME": "Mariahilferstr 119",
+                "ADRESSE": "6., Mariahilferstrasse 119 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851501",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.34025621,
+                    48.19574688
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851501,
+                "NAME": "Mariahilferstr 125",
+                "ADRESSE": "6., Mariahilferstrasse 125 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851502",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.36231993,
+                    48.22688663
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851502,
+                "NAME": "Spittelauer Platz",
+                "ADRESSE": "9., Spittelauer Platz 5 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851510",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.35143383,
+                    48.21515527
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851510,
+                "NAME": "Altes AKH",
+                "ADRESSE": "9., Altes AKH (1) ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851511",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.35357404,
+                    48.21662606
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851511,
+                "NAME": "Altes AKH",
+                "ADRESSE": "9., Altes AKH (2) ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851513",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.35846813,
+                    48.21443646
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851513,
+                "NAME": "Votivpark",
+                "ADRESSE": "9., Waehringerstrasse 8 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851514",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.36061325,
+                    48.21550758
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851514,
+                "NAME": "Votivpark",
+                "ADRESSE": "9., Universitaetsstrasse 2 (2) ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851517",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.37731162,
+                    48.1737334
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851517,
+                "NAME": "Reumannplatz",
+                "ADRESSE": "10., Reumannplatz 12 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851520",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.37479042,
+                    48.18223388
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851520,
+                "NAME": "Favoritenstrasse",
+                "ADRESSE": "10., Columbus Platz 7-8 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851521",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.37702242,
+                    48.1767391
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851521,
+                "NAME": "Favoritenstrasse 128",
+                "ADRESSE": "10., Viktor Adler Platz 13 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851522",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.38230391,
+                    48.20963722
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851522,
+                "NAME": "Stubenring 8-10",
+                "ADRESSE": "1., Stubenring 8-10 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851523",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.38141695,
+                    48.20794721
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851523,
+                "NAME": "Stubenring 5",
+                "ADRESSE": "1., Stubenring 5 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851524",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.37959905,
+                    48.20644887
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851524,
+                "NAME": "Parkring 4",
+                "ADRESSE": "1., Parkring 4 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851530",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.36850121,
+                    48.20249138
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851530,
+                "NAME": "Opernring 2",
+                "ADRESSE": "1., Opernring 2 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851535",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.35955073,
+                    48.20695684
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851535,
+                "NAME": "Schmerlingplatz 7",
+                "ADRESSE": "1., Schmerlingplatz 7 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851537",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.36049182,
+                    48.21030716
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851537,
+                "NAME": "Universitaetsring geg 2",
+                "ADRESSE": "1., Universitaetsring geg 2 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851540",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.36168572,
+                    48.21346414
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851540,
+                "NAME": "Universitaetsring  1A",
+                "ADRESSE": "1., Universitaetsring 1A ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851545",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.37183831,
+                    48.21616309
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851545,
+                "NAME": "Franz Josef Kai 51",
+                "ADRESSE": "1., Franz Josef Kai 51 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851546",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.37349846,
+                    48.21461372
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851546,
+                "NAME": "Franz Josef Kai 39",
+                "ADRESSE": "1., Franz Josef Kai 39 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851547",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.37473474,
+                    48.21335704
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851547,
+                "NAME": "Franz Josef Kai 31",
+                "ADRESSE": "1., Franz Josef Kai 31 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851549",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.37198102,
+                    48.20816889
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851549,
+                "NAME": "Stephansplatz 2",
+                "ADRESSE": "1., Stephansplatz 2 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851550",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.36550066,
+                    48.2118261
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851550,
+                "NAME": "Freyung 8",
+                "ADRESSE": "1., Freyung 8 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851552",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.36902901,
+                    48.20903524
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851552,
+                "NAME": "Graben 16",
+                "ADRESSE": "1., Graben 16 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851553",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.36735879,
+                    48.21089195
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851553,
+                "NAME": "Am Hof 4",
+                "ADRESSE": "1., Am Hof 4 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851554",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.36828002,
+                    48.20929432
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851554,
+                "NAME": "Kohlmarkt 2",
+                "ADRESSE": "1., Kohlmarkt 2 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851555",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.36998846,
+                    48.20843471
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851555,
+                "NAME": "Graben 12",
+                "ADRESSE": "1., Graben 12 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851556",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.36664625,
+                    48.21424386
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851556,
+                "NAME": "Boerseplatz 1",
+                "ADRESSE": "1., Boerseplatz 1 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851559",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.37651181,
+                    48.19913921
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851559,
+                "NAME": "Schwarzenbergplatz 5",
+                "ADRESSE": "3., Schwarzenbergplatz 5 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851560",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.33561324,
+                    48.21332547
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851560,
+                "NAME": "Yppenplatz",
+                "ADRESSE": "16., Yppenplatz ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851561",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.35917385,
+                    48.21077445
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851561,
+                "NAME": "Rathauspl03",
+                "ADRESSE": "1., Rathausplatz (3) ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851562",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.35835775,
+                    48.21006235
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851562,
+                "NAME": "Rathauspl10",
+                "ADRESSE": "1., Rathausplatz (10) ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851563",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.35969666,
+                    48.21034884
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851563,
+                "NAME": "Rathauspl06",
+                "ADRESSE": "1., Rathausplatz (6) ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851564",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.42883877,
+                    48.22873174
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851564,
+                "NAME": "Kassa",
+                "ADRESSE": "22., Gaensehaeufel (1) ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851565",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.43157752,
+                    48.22885013
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851565,
+                "NAME": "Uhrturm1",
+                "ADRESSE": "22., Gaensehaeufel (2) ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851566",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.43155641,
+                    48.22884975
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851566,
+                "NAME": "Uhrturm2",
+                "ADRESSE": "22., Gaensehaeufel (3) ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851567",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.43113765,
+                    48.22728529
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851567,
+                "NAME": "Aquascope",
+                "ADRESSE": "22., Gaensehaeufel (4) ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851568",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.38491372,
+                    48.25011827
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851568,
+                "NAME": "FdB_WC",
+                "ADRESSE": "21., Donauinsel (1) ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851569",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.38654583,
+                    48.24956522
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851569,
+                "NAME": "Fdb_Parkplatz",
+                "ADRESSE": "21., Donauinsel (2) ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851570",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.38719302,
+                    48.24810216
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851570,
+                "NAME": "FdB_Halte",
+                "ADRESSE": "21., Donauinsel (3) ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851571",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.38754695,
+                    48.24669368
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851571,
+                "NAME": "Schulschiff",
+                "ADRESSE": "21., Donauinsel (4) ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851572",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.38866309,
+                    48.2455773
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851572,
+                "NAME": "Festbuehne1",
+                "ADRESSE": "21., Donauinsel (5) ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851573",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.38904282,
+                    48.24522127
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851573,
+                "NAME": "Festbuehne2",
+                "ADRESSE": "21., Donauinsel (6) ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851574",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3905236,
+                    48.24471084
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851574,
+                "NAME": "U6-1",
+                "ADRESSE": "21., Donauinsel (7) ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851575",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.39129687,
+                    48.2441154
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851575,
+                "NAME": "U6-2",
+                "ADRESSE": "21., Donauinsel (8) ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851576",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.39133365,
+                    48.2430121
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851576,
+                "NAME": "Sport1",
+                "ADRESSE": "21., Donauinsel (9) ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851577",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.39257997,
+                    48.2421495
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851577,
+                "NAME": "Sport2",
+                "ADRESSE": "21., Donauinsel (10) ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851578",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.39340937,
+                    48.2413603
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851578,
+                "NAME": "Sport3",
+                "ADRESSE": "21., Donauinsel (11) ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851579",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.39400476,
+                    48.24069181
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851579,
+                "NAME": "Nord-Brigitt1",
+                "ADRESSE": "21., Donauinsel (12) ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851580",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.39505205,
+                    48.2398693
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851580,
+                "NAME": "Nord-Brigitt2",
+                "ADRESSE": "21., Donauinsel (13) ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851581",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3959769,
+                    48.23960514
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851581,
+                "NAME": "Brigitt1",
+                "ADRESSE": "21., Donauinsel (14) ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851582",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.39709512,
+                    48.2386002
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851582,
+                "NAME": "Brigitt2",
+                "ADRESSE": "21., Donauinsel (15) ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851583",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.40239046,
+                    48.23372531
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851583,
+                "NAME": "Spiel1",
+                "ADRESSE": "22., Donauinsel (16) ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851584",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.40311041,
+                    48.23293843
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851584,
+                "NAME": "Spiel2",
+                "ADRESSE": "22., Donauinsel (17) ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851585",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.40455279,
+                    48.23236697
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851585,
+                "NAME": "Wiese",
+                "ADRESSE": "22., Donauinsel (18) ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851586",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.40534168,
+                    48.23142923
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851586,
+                "NAME": "Cafe",
+                "ADRESSE": "22., Donauinsel (19) ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851588",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.40900181,
+                    48.22959478
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851588,
+                "NAME": "Leuchtturm",
+                "ADRESSE": "22., Donauinsel (21) ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851589",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.41019031,
+                    48.22827005
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851589,
+                "NAME": "U1-Reichsb",
+                "ADRESSE": "22., Donauinsel (22) ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851590",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.41263805,
+                    48.22588296
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851590,
+                "NAME": "Inselinfo",
+                "ADRESSE": "22., Donauinsel (23) ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851591",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.43739138,
+                    48.24135246
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851591,
+                "NAME": "Schroedingerplatz",
+                "ADRESSE": "22., Schroedingerplatz ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851592",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.50477894,
+                    48.23345285
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851592,
+                "NAME": "U2-15",
+                "ADRESSE": "22., Aspern Nord ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851593",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.50811872,
+                    48.2251354
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851593,
+                "NAME": "U2-16",
+                "ADRESSE": "22., Seestadt Aspern ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851594",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.50064687,
+                    48.22395332
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851594,
+                "NAME": "Seestadt Aspern",
+                "ADRESSE": "22., Hannah Arendt Platz ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851595",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.33157166,
+                    48.21830733
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851595,
+                "NAME": "Elterleinplatz01",
+                "ADRESSE": "17., Elterleinplatz 14 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851596",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.39696305,
+                    48.25744039
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851596,
+                "NAME": "Schwaigerg",
+                "ADRESSE": "21., Schwaigergasse ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851597",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.35969374,
+                    48.21427252
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851597,
+                "NAME": "Sigmund-Freud-Park",
+                "ADRESSE": "9., Universitaetsstrasse 2 (1) ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851598",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.39680305,
+                    48.25822792
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851598,
+                "NAME": "Am Spitz",
+                "ADRESSE": "21., Am Spitz ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851599",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.39913258,
+                    48.25806081
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851599,
+                "NAME": "PiusParschPl",
+                "ADRESSE": "21., Pius Parsch Platz ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851600",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.3991664,
+                    48.25653216
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851600,
+                "NAME": "FranzJonasPl",
+                "ADRESSE": "21., Franz Jonas Platz ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851601",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.42933442,
+                    48.23225417
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851601,
+                "NAME": "Weststrand",
+                "ADRESSE": "22., Moissigasse ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851602",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.33133517,
+                    48.26573767
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851602,
+                "NAME": "Krapfenwaldlbad",
+                "ADRESSE": "19., Krapfenwaldgasse 65-73 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851603",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.31143478,
+                    48.22141416
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851603,
+                "NAME": "Kongressbad",
+                "ADRESSE": "16., Julius-Meinl-Gasse 7a ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851606",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.37003861,
+                    48.20378562
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851606,
+                "NAME": "Kaerntnerstrasse 38",
+                "ADRESSE": "1., Kaerntnerstrasse 38 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851607",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.40060237,
+                    48.22048318
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851607,
+                "NAME": "Max Winter Platz ",
+                "ADRESSE": "2., Max WInter Platz 1 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        },
+        {
+            "type": "Feature",
+            "id": "WLANWIENATOGD.5851608",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.36899758,
+                    48.20386922
+                ]
+            },
+            "geometry_name": "SHAPE",
+            "properties": {
+                "OBJECTID": 5851608,
+                "NAME": "Albertina Platz ",
+                "ADRESSE": "1., Philharmonikerstrasse 1 ",
+                "WEITERE_INFORMATIONEN": "https://digitales.wien.gv.at/site/e-government/#wlan",
+                "ANBIETER": "https://digitales.wien.gv.at/site/e-government/#multimediastationen",
+                "SE_ANNO_CAD_DATA": null
+            }
+        }
+    ],
+    "totalFeatures": 233,
+    "numberMatched": 233,
+    "numberReturned": 233,
+    "timeStamp": "2026-11-22T10:48:55.142Z",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:EPSG::4326"
+        }
+    }
+}

@@ -1,0 +1,340 @@
+/* ==========================================================================
+   style.css – Layout, colors and visual hierarchy for the Vienna Story Map
+   Structure:
+     1. Design tokens (colors, fonts, sizes)
+     2. Base / reset
+     3. Header
+     4. Layout (map + story)
+     5. Story chapters
+     6. Legend
+     7. Leaflet overrides (popups, scale control)
+     8. Footer / sources
+     9. Responsive (mobile)
+   ========================================================================== */
+
+
+/* --------------------------------------------------------------------------
+   1. DESIGN TOKENS
+   Change colors here once and they update everywhere (legend + map styling).
+   js/map.js can read these via getComputedStyle if you want matching markers.
+   -------------------------------------------------------------------------- */
+:root {
+  /* Layer colors (keep them distinguishable, also for color-blind users) */
+  --color-wifi:      #1f78b4;   /* blue   */
+  --color-bike:      #e08a00;   /* orange */
+  --color-charging:  #2e9d4f;   /* green  */
+  --color-districts: #1a1818;   /* black   */
+
+  /* UI colors */
+  --color-bg:        #f6f5f2;
+  --color-surface:   #ffffff;
+  --color-text:      #1d1d1f;
+  --color-text-soft: #5a5a60;
+  --color-accent:    #c8102e;   /* Vienna red, used for highlights */
+  --color-border:    #dcdad5;
+
+  /* Typography */
+  --font-body:    system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  --font-heading: Georgia, "Times New Roman", serif;
+
+  /* Layout sizes */
+  --header-height: 76px;
+  --story-width:   min(460px, 40vw);
+  --radius:        10px;
+  --shadow:        0 2px 12px rgba(0, 0, 0, 0.12);
+}
+
+
+/* --------------------------------------------------------------------------
+   2. BASE / RESET
+   -------------------------------------------------------------------------- */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-body);
+  font-size: 1rem;
+  line-height: 1.6;
+  color: var(--color-text);
+  background: var(--color-bg);
+}
+
+a {
+  color: var(--color-accent);
+}
+
+
+/* --------------------------------------------------------------------------
+   3. HEADER – top level of the visual hierarchy
+   -------------------------------------------------------------------------- */
+#site-header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1000;                    /* above the Leaflet map (which uses up to ~800) */
+  height: var(--header-height);
+  padding: 0.6rem 1.5rem;
+  background: var(--color-surface);
+  border-bottom: 3px solid var(--color-accent);
+  box-shadow: var(--shadow);
+}
+
+#site-header h1 {
+  margin: 0;
+  font-family: var(--font-heading);
+  font-size: 1.6rem;
+  line-height: 1.2;
+}
+
+#site-header .subtitle {
+  margin: 0.15rem 0 0;
+  font-size: 0.9rem;
+  color: var(--color-text-soft);
+}
+
+
+/* --------------------------------------------------------------------------
+   4. LAYOUT – map stays fixed on the right, story scrolls on the left
+   -------------------------------------------------------------------------- */
+#layout {
+  display: flex;
+  flex-direction: row;
+  padding-top: var(--header-height);  /* make room for the fixed header */
+}
+
+/* The map column is "sticky": it stays in view while the story scrolls. */
+#map-container {
+  order: 2;                           /* place map to the right of the story */
+  position: sticky;
+  top: var(--header-height);
+  flex: 1;
+  height: calc(100vh - var(--header-height));
+}
+
+#map {
+  width: 100%;
+  height: 100%;                       /* Leaflet needs an explicit height! */
+  background: #e9e7e2;                /* shown briefly while tiles load */
+}
+
+#story {
+  order: 1;
+  width: var(--story-width);
+  flex-shrink: 0;
+  padding: 0 1.5rem;
+}
+
+
+/* --------------------------------------------------------------------------
+   5. STORY CHAPTERS
+   Each chapter is tall enough that only one is "active" at a time.
+   story.js adds the class .is-active to the chapter currently in view.
+   -------------------------------------------------------------------------- */
+.chapter {
+  min-height: 85vh;                   /* gives the scroll room to trigger events */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 2rem 0;
+  opacity: 0.35;                      /* inactive chapters are dimmed */
+  transition: opacity 0.4s ease;
+}
+
+.chapter.is-active {
+  opacity: 1;
+}
+
+.chapter h2 {
+  margin: 0 0 0.75rem;
+  font-family: var(--font-heading);
+  font-size: 1.7rem;
+  line-height: 1.25;
+}
+
+.chapter p {
+  margin: 0 0 1rem;
+  padding: 1.1rem 1.25rem;
+  background: var(--color-surface);
+  border-left: 4px solid var(--color-accent);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+}
+
+/* Last chapter gets extra space at the bottom so the footer doesn't jump in. */
+.chapter:last-child {
+  margin-bottom: 10vh;
+}
+
+
+/* --------------------------------------------------------------------------
+   6. LEGEND – interactive (checkboxes are handled in js/map.js)
+   -------------------------------------------------------------------------- */
+#legend {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  z-index: 900;                       /* above map, below header */
+  min-width: 190px;
+  padding: 0.75rem 1rem;
+  background: var(--color-surface);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+}
+
+#legend h2 {
+  margin: 0 0 0.5rem;
+  font-size: 0.85rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--color-text-soft);
+}
+
+.legend-item {
+  display: flex;
+  align-items: center;
+  gap: 0.55rem;
+  padding: 0.2rem 0;
+  font-size: 0.9rem;
+  cursor: pointer;
+  user-select: none;
+}
+
+.legend-item input {
+  accent-color: var(--color-accent);
+  cursor: pointer;
+}
+
+/* Colored symbol next to each legend entry */
+.legend-symbol {
+  display: inline-block;
+  width: 14px;
+  height: 14px;
+  flex-shrink: 0;
+}
+
+.symbol-wifi     { background: var(--color-wifi);     border-radius: 50%; }
+.symbol-bike     { background: var(--color-bike);     border-radius: 50%; }
+.symbol-charging { background: var(--color-charging); border-radius: 3px; }  /* square = different shape, not only color */
+.symbol-districts {
+  background: transparent;
+  border: 2px dashed var(--color-districts);
+  border-radius: 2px;
+}
+
+
+/* --------------------------------------------------------------------------
+   7. LEAFLET OVERRIDES
+   -------------------------------------------------------------------------- */
+.leaflet-popup-content-wrapper {
+  border-radius: var(--radius);
+  font-family: var(--font-body);
+}
+
+.leaflet-popup-content h3 {
+  margin: 0 0 0.25rem;
+  font-size: 1rem;
+}
+
+.leaflet-popup-content p {
+  margin: 0.15rem 0;
+  font-size: 0.85rem;
+}
+
+/* Scale control (the "scale hint" required by the assignment) */
+.leaflet-control-scale-line {
+  font-size: 0.75rem;
+  background: rgba(255, 255, 255, 0.85);
+}
+
+/* Desaturate the basemap tiles so our data points stand out.
+   The filter only affects the tile layer, not markers or popups. */
+.leaflet-tile-pane {
+  filter: grayscale(10%) contrast(0.9) brightness(1.05);
+}
+
+/* --------------------------------------------------------------------------
+   8. FOOTER / SOURCES
+   -------------------------------------------------------------------------- */
+#sources {
+  position: relative;                 /* sits above the sticky map when scrolled to */
+  z-index: 1100;
+  padding: 2rem 1.5rem 3rem;
+  background: var(--color-surface);
+  border-top: 3px solid var(--color-accent);
+  font-size: 0.9rem;
+}
+
+#sources h2 {
+  margin-top: 0;
+  font-family: var(--font-heading);
+}
+
+#sources ul {
+  padding-left: 1.2rem;
+}
+
+#sources .note {
+  color: var(--color-text-soft);
+  font-style: italic;
+}
+
+
+/* --------------------------------------------------------------------------
+   9. RESPONSIVE – on narrow screens the map moves to the top half
+      and the story scrolls underneath it.
+   -------------------------------------------------------------------------- */
+@media (max-width: 800px) {
+  :root {
+    --header-height: 64px;
+  }
+
+  #site-header h1 {
+    font-size: 1.2rem;
+  }
+
+  #site-header .subtitle {
+    display: none;                    /* save vertical space on phones */
+  }
+
+  #layout {
+    flex-direction: column;
+  }
+
+  #map-container {
+    order: 1;
+    flex: none;
+    width: 100%;
+    height: 45vh;
+  }
+
+  #story {
+    order: 2;
+    width: 100%;
+    padding: 0 1rem;
+  }
+
+  .chapter {
+    min-height: 60vh;
+  }
+
+  /* Legend becomes more compact on small screens */
+  #legend {
+    top: 0.5rem;
+    right: 0.5rem;
+    min-width: 0;
+    padding: 0.5rem 0.7rem;
+  }
+
+  .legend-item {
+    font-size: 0.8rem;
+  }
+}
